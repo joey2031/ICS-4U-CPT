@@ -72,8 +72,4 @@ class buildings {
     this.totalCps = tCPS;
   }
 
-
-
-  // Idk should I do a super class like this, and then make subclasses for each 
-  // type of building
 }
